@@ -3,9 +3,11 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) GIT Eğitiminde oluşturduğum
 <div align="center">
 <img alt="kodluyoruzrepo" src="https://imgur.com/Q96wnJC.png"/>
 </div>
+
 ## Installation
 Öncelikle projeyi clonelayın.  
 ```
+
 git clone http://github.com/oguzhanbelli/kodluyoruzilkrepo.git
 ```
 
